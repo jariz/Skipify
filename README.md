@@ -11,7 +11,7 @@ Try the much older [Mutify](http://github.com/jariz/Mutify)
 Licensed under the WTFPL (Do What the Fuck You Want to) license http://www.wtfpl.net/  
 
 ##Download
-- [Chrome](https://github.com/jariz/Skipify/raw/master/skipify.crx)   
+- [Chrome](https://github.com/jariz/Skipify/raw/master/skipify.crx) (Right click > Save as...)   
 - [Firefox](https://github.com/jariz/Skipify/raw/master/skipify.xpi)  
 
 ##Installation  
