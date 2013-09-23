@@ -1,0 +1,19 @@
+{
+    "license":"WTFPL.net",
+    "description":"This extension aims to skip all commercials in the web version of Spotify",
+    "contributors":[
+
+    ],
+    "author":"",
+    "url":"",
+    "dependencies":[
+        "api-utils",
+        "addon-kit"
+    ],
+    "version":"r36",
+    "lib":"lib",
+    "fullName":"Skipify",
+    "main":"main",
+    "id":"skipify",
+    "name":"skipify"
+}

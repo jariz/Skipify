@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+
+  "name": "Skipify",
+  "description": "This extension aims to skip all commercials in the web version of Spotify",
+  "version": "2.0",
+  "icons": { "64" : "skipify.png", "48" : "skipify48.png" },
+  
+  "content_scripts": [
+    {
+      "matches": ["https://play.spotify.com/*"],
+      "js": ["skipify.bootstrap.js"]
+    }
+  ],
+  
+  "permissions": [
+    "tabs", "https://play.spotify.com/*"
+  ],
+  
+  "web_accessible_resources": ["skipify.web.js","skipify_enabled.png","skipify_disabled.png","skipify48.png"]
+}
