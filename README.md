@@ -1,4 +1,4 @@
-Skipify
+![](https://raw.github.com/jariz/Skipify/master/chrome/skipify48.png) Skipify
 =======
 Skipify is a open source spotify advertisement skipper extension for firefox and chrome (created for [the spotify web client](http://play.spotify.com/), not the desktop app)
 Rather than most spotify ad 'muters', Skipify just disables ads entirely.  
