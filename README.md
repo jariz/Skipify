@@ -1,3 +1,9 @@
+#WARNING:
+Project in it's current state is broken.  
+I'll fix it when I fix it, but in the meantime, it's broken.  
+If you're not planning on fixing it, move along, cuz it's broken.  
+One last time: *it's broken*.
+
 ![](https://raw.github.com/jariz/Skipify/master/chrome/skipify48.png) Skipify
 =======
 Skipify is a open source spotify advertisement skipper extension for firefox and chrome (created for [the spotify web client](http://play.spotify.com/), not the desktop app)
